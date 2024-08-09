@@ -1,4 +1,1 @@
-a=50
-b=10
-c=a/b
-print(c)
+print(""[DDivide"[D:",c[D[D[D[C[C[C)
